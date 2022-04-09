@@ -160,6 +160,8 @@ a {
   /*max-width: 1440px;*/
   gap: 8px;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items:flex-start;
 }
 
 .info {

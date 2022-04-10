@@ -85,7 +85,7 @@ a {
   padding: 32px;
   color: #f9faf8;
   /*max-width: 1440px;*/
-  gap: 1px;
+  gap: 12px;
   width: 100vw;
 }
 
@@ -104,6 +104,7 @@ a {
   color: #f9faf8;
   flex-wrap: wrap;
   gap: 12px;
+  padding: 12px;
 }
 
 .signup:hover {

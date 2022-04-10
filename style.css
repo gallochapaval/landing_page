@@ -132,6 +132,8 @@ a {
   font-size: 18px;
   color: #f9faf8;
   /*max-width: 60vw;*/
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .panel2 {

@@ -131,7 +131,7 @@ a {
 .text{
   font-size: 18px;
   color: #f9faf8;
-  max-width: 60vw;
+  /*max-width: 60vw;*/
 }
 
 .panel2 {
